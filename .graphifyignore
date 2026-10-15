@@ -1,0 +1,6 @@
+# Keep the knowledge graph focused on our own code
+_legacy/
+public/
+src/components/ui/
+.claude/skills/
+pnpm-lock.yaml
